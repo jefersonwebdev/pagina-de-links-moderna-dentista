@@ -13,16 +13,7 @@ Uma página de links moderna e responsiva, projetada para consolidar todos os pe
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
 
 ![](https://jefersonwebdev.github.io/link-da-bio/assets/img/link-da-bio-mobile)
-## Detalhes do projeto
-
-![](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-mockup.png)
-
 <!-- Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
-
-
-# Página de Links - Dentista
-
-> Uma página de links moderna e responsiva, projetada para consolidar todos os perfis e informações de contato de um dentista em um só lugar.
 
 ## 🚀 Sobre o Projeto
 
@@ -51,7 +42,7 @@ Se você quiser clonar e personalizar o projeto, siga os passos abaixo:
 
 1.  Clone este repositório para sua máquina:
     ```sh
-    git clone [https://github.com/jefersonwebdev/pagina-de-links-moderna-dentista.git](https://github.com/jefersonwebdev/pagina-de-links-moderna-dentista.git)
+    git clone https://github.com/jefersonwebdev/pagina-de-links-moderna-dentista.git
     ```
 2.  Navegue até o diretório do projeto:
     ```sh
@@ -63,8 +54,7 @@ Se você quiser clonar e personalizar o projeto, siga os passos abaixo:
 ## 🎨 Visualização
 
 ![Uma imagem ou GIF mostrando a página de links](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-gif.gif)
-
-
+![](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-mockup.png)
 
 ## 📝 Licença
 
