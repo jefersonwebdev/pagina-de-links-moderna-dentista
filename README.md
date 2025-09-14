@@ -53,7 +53,7 @@ Se você quiser clonar e personalizar o projeto, siga os passos abaixo:
 
 ## 🎨 Visualização
 
-![Uma imagem ou GIF mostrando a página de links](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-gif.gif)
+![Uma imagem ou GIF mostrando a página de links](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-gif4.gif)
 ![](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-mockup.png)
 
 ## 📝 Licença
